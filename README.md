@@ -1,10 +1,21 @@
-# Gestion_RRHH
 
-# Requerimientos
+<div align="center">
+<h1> Gestión de RRHH </h1>
+</div>
 
-## Secciones mínimas requeridas:
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="500"/> 
+</div>
 
-### Información de Contacto
+<div align="center">
+<p>Este programa gestiona la información básica de los trabajadores, utilizando una base de datos en MySQL Server. El cual está desarrollado en el lenguaje de programación de C# y utiliza Windows Forms para su interfaz gráfica.</p>
+</div>
+
+## Requerimientos
+
+### Secciones mínimas requeridas:
+
+#### Información de Contacto
 - Nombre completo
 - Teléfono móvil
 - Email
@@ -12,25 +23,25 @@
 - Objetivo
 - Foto
 
-### Formación Académica
+#### Formación Académica
 - Institución
 - Título
 - Año inicio y fin
 - Departamento
 
-### Experiencia Profesional
+#### Experiencia Profesional
 - Cargo u ocupación
 - Institución o entidad
 - Año inicio y fin
 
-### Habilidades
+#### Habilidades
 - Habilidad
 
-### Competencias
+#### Competencias
 - Competencia
 - Dominio
 
-### Referencias
+#### Referencias
 - Referencia persona
   - Nombre
   - Teléfono
