@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<p>Este programa gestiona la información básica de los trabajadores, utilizando una base de datos en MySQL Server. El cual está desarrollado en el lenguaje de programación de C# y utiliza Windows Forms para su interfaz gráfica.</p>
+<p>Este programa gestiona la información básica de los trabajadores, utilizando una base de datos en SQL Server. El cual está desarrollado en el lenguaje de programación de C# y utiliza Windows Forms para su interfaz gráfica.</p>
 </div>
 
 ## Requerimientos
